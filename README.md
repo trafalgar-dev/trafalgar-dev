@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Paul, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">I'm Paul, a freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
 - 🌱 I’m currently learning Django and FastAPI  
