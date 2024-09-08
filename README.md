@@ -3,14 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Paul, a freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center"> I'm Paul, a freelance data engineer 👨‍💻 working remotely since 2023</div>  
   
 
-- 🌱 I’m currently learning Django and FastAPI  
+- 🌱 I’m currently learning Django, FastAPI, and expanding my skills in data engineering.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- ❓ Ask me about anything related to data pipelines, scalable solutions, and data-driven insights.
+
 
 <br/>  
 
